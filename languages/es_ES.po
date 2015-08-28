@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Layers v1.0.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-08-27 19:32-0300\n"
+"PO-Revision-Date: 2015-08-27 21:07-0300\n"
 "Last-Translator: CAVARELA|COM <cavarela.com.br@gmail.com>\n"
 "Language-Team: CAVARELA.COM <cavarelacombr@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -249,34 +249,35 @@ msgstr "Scripts Personalizados"
 # @ layerswp
 #: core/customizer/config.php:283
 msgid "Single Post Sidebar(s)"
-msgstr ""
+msgstr "Barra(s) Lateral Post Individual"
 
 # @ layerswp
 #: core/customizer/config.php:284
 msgid "This option affects your single post pages."
-msgstr ""
+msgstr "Esta opción afecta a las páginas de los single post o individuales"
 
 # @ layerswp
 #: core/customizer/config.php:288 core/customizer/config.php:306
 #: core/customizer/config.php:447 core/customizer/config.php:465
 msgid "Display Left Sidebar"
-msgstr ""
+msgstr "Mostrar Barra Lateral Izquierda"
 
 # @ layerswp
 #: core/customizer/config.php:293 core/customizer/config.php:311
 #: core/customizer/config.php:452 core/customizer/config.php:470
 msgid "Display Right Sidebar"
-msgstr ""
+msgstr "Mostrar Barra Lateral Derecha"
 
 # @ layerswp
 #: core/customizer/config.php:301
 msgid "Post List Sidebar(s)"
-msgstr ""
+msgstr "Barra(s) Lateral Lista de Post"
 
 # @ layerswp
 #: core/customizer/config.php:302
 msgid "This option affects your category, tag, author and search pages."
 msgstr ""
+"Esta opción afecta a  categoría, etiquetas,  páginas de autor y de búsqueda."
 
 # @ layerswp
 #: core/customizer/config.php:332
@@ -405,23 +406,25 @@ msgstr "Texto de Derechos de Copia"
 # @ layerswp
 #: core/customizer/config.php:442
 msgid "Single Product Sidebar(s)"
-msgstr ""
+msgstr "Barra(s) Lateral Producto Individual"
 
 # @ layerswp
 #: core/customizer/config.php:443
 msgid "This option affects your single product pages."
-msgstr ""
+msgstr "Esta opción afecta a las páginas individuales de productos."
 
 # @ layerswp
 #: core/customizer/config.php:460
 msgid "Product List Sidebar(s)"
-msgstr ""
+msgstr "Barra(s) Lateral Lista de Producto"
 
 # @ layerswp
 #: core/customizer/config.php:461
 msgid ""
 "This option affects your shop page, product category and product tag pages."
 msgstr ""
+"Esta opción afecta a su página de tienda, categoría de producto y páginas de "
+"productos etiquetados."
 
 # @ layerswp
 #: core/customizer/controls/select-images.php:36
@@ -446,7 +449,7 @@ msgstr ""
 # @ layerswp
 #: core/customizer/init.php:167
 msgid "Builder Pages:"
-msgstr ""
+msgstr "Crear de Paginas:"
 
 # @ layerswp
 #: core/customizer/init.php:187
@@ -658,7 +661,7 @@ msgstr "Avanzado"
 # @ layerswp
 #: core/helpers/design-bar.php:682
 msgid "Custom Class(es)"
-msgstr ""
+msgstr "Clase(s) Personalizada"
 
 # @ layerswp
 #: core/helpers/design-bar.php:690
@@ -770,7 +773,7 @@ msgstr "Oscurecer para mejorar la legibilidad"
 # @ layerswp
 #: core/helpers/forms.php:370 core/helpers/forms.php:445
 msgid "Tile Background"
-msgstr ""
+msgstr "Fondo Repetido"
 
 # @ layerswp
 #: core/helpers/forms.php:381 core/helpers/forms.php:456
@@ -780,12 +783,12 @@ msgstr "Fondo Fijo"
 # @ layerswp
 #: core/helpers/forms.php:392
 msgid "Enter your .mp4 link"
-msgstr ""
+msgstr "Agrega tu enlace del archivo .mp4"
 
 # @ layerswp
 #: core/helpers/forms.php:403
 msgid "Enter your .ogv link"
-msgstr ""
+msgstr "Agrega tu enlace del archivo .ogv"
 
 # @ layerswp
 #: core/helpers/migrator.php:102
@@ -847,17 +850,17 @@ msgstr "Barra Lateral no existe en este tema (usando Inactivo)"
 # @ layerswp
 #: core/helpers/migrator.php:766
 msgid "Widget already exists"
-msgstr ""
+msgstr "El widget ya existe"
 
 # @ layerswp
 #: core/helpers/migrator.php:815
 msgid "Imported"
-msgstr ""
+msgstr "Importado"
 
 # @ layerswp
 #: core/helpers/migrator.php:818
 msgid "Imported to Inactive"
-msgstr ""
+msgstr "Importado a Inactivo"
 
 # @ layerswp
 #: core/helpers/migrator.php:824
@@ -907,7 +910,7 @@ msgstr "(Editar)"
 #: core/helpers/post.php:129
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s a las %2$s"
 
 # @ layerswp
 #: core/helpers/post.php:135
@@ -950,7 +953,7 @@ msgstr "Archivos Mensuales: %s"
 #: core/helpers/template.php:319
 msgctxt "monthly archives date format"
 msgid "F Y"
-msgstr ""
+msgstr "F Y"
 
 # @ layerswp
 #: core/helpers/template.php:321
@@ -962,7 +965,7 @@ msgstr "Archivos Anuales: %s"
 #: core/helpers/template.php:321
 msgctxt "yearly archives date format"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 # @ layerswp
 #: core/helpers/template.php:334
@@ -1170,8 +1173,8 @@ msgid ""
 "Layers requires you run the latest version of WordPress, please make sure "
 "you're up to date!"
 msgstr ""
-"Lakers  requierela versión más reciente de WordPress, por favor asegúrate de "
-"que estas actualizado!"
+"Layers necesita la versión más reciente de WordPress, por favor asegúrate de "
+"que estás actualizado"
 
 # @ layerswp
 #: core/options-panel/partials/dashboard.php:115
@@ -1332,11 +1335,13 @@ msgid ""
 "For the Pros: Layers will automatically assign the tagline to Settings "
 "&rarr; General"
 msgstr ""
+"For the Pros: Layers will automatically assign the tagline to Settings "
+"&rarr; General"
 
 # @ layerswp
 #: core/options-panel/partials/get-started.php:240
 msgid "Customizing widgets"
-msgstr ""
+msgstr "Personalizando widgets"
 
 # @ layerswp
 #: core/options-panel/partials/get-started.php:244
@@ -1345,6 +1350,9 @@ msgid ""
 "which allows you to set its design parameters without touching a line of "
 "code."
 msgstr ""
+"Exclusivo de cada widget de Layers es la revolucionaria &ldquo;Barra de "
+"Diseño&rdquo;, que te permite configurar sus parámetros sin tocar una línea "
+"de código."
 
 # @ layerswp
 #: core/options-panel/partials/get-started.php:247
@@ -1352,6 +1360,8 @@ msgid ""
 "Depending on the widget you've added, you can change things like background "
 "images, font sizes, list styles and more."
 msgstr ""
+"Dependiendo de los widgets que hayas añadido, puedes cambiar cosas como "
+"imágenes de fondo, tamaños de fuente, la lista de estilos y mucho más."
 
 # @ layerswp
 #: core/options-panel/partials/get-started.php:268
@@ -1497,7 +1507,7 @@ msgstr "Cuerpo"
 # @ layerswp
 #: core/widgets/init.php:165
 msgid "Layers Builder section."
-msgstr ""
+msgstr "Sección Creador Layers "
 
 # @ layerswp
 #: core/widgets/init.php:190
@@ -1559,17 +1569,17 @@ msgstr "Coloca el texto de ayuda acá."
 # @ layerswp
 #: core/widgets/modules/contact.php:301
 msgid "Google Maps Location"
-msgstr ""
+msgstr "Ubicación Google Maps"
 
 # @ layerswp
 #: core/widgets/modules/contact.php:307
 msgid "e.g. 300 Prestwich Str, Cape Town, South Africa"
-msgstr ""
+msgstr "Ej. 300 Prestwich Str, Cape Town, Sudafrica"
 
 # @ layerswp
 #: core/widgets/modules/contact.php:313
 msgid "Google Maps Latitude & Longitude (Optional)"
-msgstr ""
+msgstr "Google Maps Latitud & Longitud (Opcional)"
 
 # @ layerswp
 #: core/widgets/modules/contact.php:319
@@ -1714,32 +1724,32 @@ msgstr "Regular"
 # @ layerswp
 #: core/widgets/modules/portfolio.php:344 core/widgets/modules/post.php:340
 msgid "Show Featured Images"
-msgstr ""
+msgstr "Mostrar Imágenes Destacadas"
 
 # @ layerswp
 #: core/widgets/modules/post.php:347
 msgid "Show  Post Titles"
-msgstr ""
+msgstr "Mostrar Titulos del Post"
 
 # @ layerswp
 #: core/widgets/modules/post.php:354
 msgid "Show Post Excerpts"
-msgstr ""
+msgstr "Mostrar Extracto del Post"
 
 # @ layerswp
 #: core/widgets/modules/portfolio.php:367 core/widgets/modules/post.php:363
 msgid "Excerpts Length"
-msgstr ""
+msgstr "Largo del extracto"
 
 # @ layerswp
 #: core/widgets/modules/post.php:370
 msgid "Show Post Dates"
-msgstr ""
+msgstr "Mostrar Fecha del Post"
 
 # @ layerswp
 #: core/widgets/modules/post.php:377
 msgid "Show Post Author"
-msgstr ""
+msgstr "Mostrar Autor del Post"
 
 # @ layerswp
 #: core/widgets/modules/post.php:384
@@ -1769,7 +1779,7 @@ msgstr "Mostrar Paginación"
 # @ layerswp
 #: core/widgets/modules/post.php:431
 msgid "Post"
-msgstr ""
+msgstr "Post"
 
 # @ layerswp
 #: core/widgets/modules/portfolio.php:435 core/widgets/modules/post.php:467
@@ -1809,17 +1819,17 @@ msgstr "Pantalla Completa"
 # @ layerswp
 #: core/widgets/modules/slider.php:365
 msgid "Show Slider Arrows"
-msgstr ""
+msgstr "Mostrar flechas del Slider"
 
 # @ layerswp
 #: core/widgets/modules/slider.php:372
 msgid "Show Slider Dots"
-msgstr ""
+msgstr "Mostrar puntos en el Slider"
 
 # @ layerswp
 #: core/widgets/modules/slider.php:379
 msgid "Autoplay Slides"
-msgstr ""
+msgstr "Autoreproducir Slides"
 
 # @ layerswp
 #: core/widgets/modules/slider.php:387
@@ -1834,7 +1844,7 @@ msgstr "Slide Intervalo"
 # @ layerswp
 #: core/widgets/modules/slider.php:397
 msgid "Slider Height"
-msgstr ""
+msgstr "Altura del Slider"
 
 # @ layerswp
 #: core/widgets/modules/slider.php:445
@@ -1844,7 +1854,7 @@ msgstr "Añadir Nuevo Slide"
 # @ layerswp
 #: core/widgets/modules/slider.php:481
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 # @ layerswp
 #: core/widgets/modules/slider.php:514
@@ -1859,47 +1869,47 @@ msgstr "Volver arriba"
 # @ layerswp
 #: functions.php:162
 msgid "Top Left Menu"
-msgstr ""
+msgstr "Menú Superior Izquierdo"
 
 # @ layerswp
 #: functions.php:163
 msgid "Top Right Menu"
-msgstr ""
+msgstr "Menú Superior Derecho"
 
 # @ layerswp
 #: functions.php:164
 msgid "Header Menu"
-msgstr ""
+msgstr "Menú Cabecera"
 
 # @ layerswp
 #: functions.php:165
 msgid "Right Header Menu"
-msgstr ""
+msgstr "Menú a la Derecha en la Cabecera "
 
 # @ layerswp
 #: functions.php:166
 msgid "Footer Menu"
-msgstr ""
+msgstr "Menú Pie de Página"
 
 # @ layerswp
 #: functions.php:194
 msgid "Mobile Sidebar"
-msgstr ""
+msgstr "Barra Lateral Mobile"
 
 # @ layerswp
 #: functions.php:195
 msgid "This sidebar will only appear on mobile devices."
-msgstr ""
+msgstr "Esta barra lateral solo aparecerá en dispositivos móviles."
 
 # @ layerswp
 #: functions.php:204
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Barra Lateral Izquierda"
 
 # @ layerswp
 #: functions.php:213
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Barra Lateral Derecha"
 
 # @ layerswp
 #: functions.php:226
@@ -1909,12 +1919,12 @@ msgstr "Pie de Página"
 # @ layerswp
 #: functions.php:240
 msgid "Left Shop Sidebar"
-msgstr ""
+msgstr "Barra Lateral Izquierda Tienda"
 
 # @ layerswp
 #: functions.php:249
 msgid "Right Shop Sidebar"
-msgstr ""
+msgstr "Barra Lateral Derecha Tienda"
 
 # @ layerswp
 #: functions.php:397
